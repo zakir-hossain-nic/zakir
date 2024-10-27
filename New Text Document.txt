@@ -1,0 +1,6 @@
+width: 100%; 
+    height: 200px; 
+    overflow: hidden;                /* অতিরিক্ত অংশ скрыть করবে */
+    display: flex;                  /* সেন্টার করার জন্য */
+    justify-content: center;        
+    align-items: center;    
